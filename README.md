@@ -1,1 +1,3 @@
-# MVP-Qualidade-de-Software-Seguran-a-e-Sistemas-Inteligentes
+# MVP-Qualidade-de-Software
+
+Video do MVP:
